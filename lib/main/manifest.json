@@ -1,0 +1,32 @@
+{
+    "author": "minwook-shin",
+    "manifest_version": 2,
+
+    "name": "kookmin university home",
+    "description": "Unofficial extension of Kookmin University",
+    "version": "1.1",
+
+    "browser_action": {
+        "default_icon": "symbol_color.png",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "symbol_color.png"
+    },
+
+    "options_page": "options.html",
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "http://*/*",
+        "https://*/*",
+        "contextMenus",
+        "webRequest",
+        "webRequestBlocking",
+        "webNavigation",
+        "storage",
+        "unlimitedStorage",
+        "notifications",
+        "idle"
+    ]
+}

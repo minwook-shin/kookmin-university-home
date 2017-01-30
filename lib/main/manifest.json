@@ -5,8 +5,8 @@
     "name": "kookmin university home",
     "short_name": "kookmin.univ home",
     "description": "Unofficial extension of Kookmin University",
-    "version": "1.31",
-    "version_name": "1.4 pre-releases",
+    "version": "1.32",
+    "version_name": "1.32 stable",
 
     "browser_action": {
         "default_icon": "symbol_color.png",

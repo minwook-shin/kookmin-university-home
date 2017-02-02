@@ -1,0 +1,16 @@
+{
+    "locales": {
+        "message": "en"
+    },
+    "extension_name": {
+        "message": "kookmin university home"
+    },
+
+    "extension_sname": {
+        "message": "kookmin.univ home"
+    },
+
+    "extension_desc": {
+        "message": "Kookmin University's mobile homepage in Google Chrome!"
+    }
+}

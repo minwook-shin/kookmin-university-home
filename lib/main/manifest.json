@@ -5,8 +5,8 @@
     "name": "__MSG_extension_name__",
     "short_name": "__MSG_extension_sname__",
     "description": "__MSG_extension_desc__",
-    "version": "1.40",
-    "version_name": "1.4 stable",
+    "version": "1.41",
+    "version_name": "1.41 stable",
 
 
     "browser_action": {
@@ -29,29 +29,5 @@
         "js": ["scripts.js"],
         "css": ["css.css"]
     }],
-    "homepage_url": "https://github.com/minwook-shin/kookmin-university-home",
-    "commands": {
-        "toggle-feature-foo": {
-            "suggested_key": {
-                "default": "Ctrl+Shift+Y",
-                "mac": "Command+Shift+Y"
-            },
-            "description": "Toggle feature foo"
-        },
-        "_execute_browser_action": {
-            "suggested_key": {
-                "windows": "Ctrl+Shift+Y",
-                "mac": "Command+Shift+Y",
-                "chromeos": "Ctrl+Shift+U",
-                "linux": "Ctrl+Shift+J"
-            }
-        },
-        "_execute_page_action": {
-            "suggested_key": {
-                "default": "Ctrl+Shift+E",
-                "windows": "Alt+Shift+P",
-                "mac": "Alt+Shift+P"
-            }
-        }
-    }
+    "homepage_url": "https://chrome.google.com/webstore/detail/kookmin-university-home/hcpfdokjdppdoogbpdahjonekohhcagm"
 }

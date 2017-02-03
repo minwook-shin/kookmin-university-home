@@ -7,7 +7,8 @@
     <!--style start-->
     <style>
         BODY {
-            width: 390px;
+            min-width: 435px;
+            min-height: 460px;
         }
     </style>
     <!--style end-->
@@ -21,13 +22,19 @@
     <link href='http://fonts.googleapis.com/css?family=Neuton&amp;subset=latin' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css3buttons/stylesheets/css3buttons.css" media="screen">
     <script type="text/javascript" src="css3buttons/javascripts/modernizr-1.6.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $('.iframe-full-height').on('load', function() {
+            this.style.height = this.contentDocument.body.scrollHeight + 'px';
+        });
+    </script>
     <!--meta end-->
 </head>
 
 <body style="text-align:center">
     <!--body start-->
     <!-- 2.0 개발중 <iframe name="web" src="home.html" width="380" height="440"></iframe> -->
-    <iframe name="web" src="http://m.kookmin.ac.kr/main.php#main-sitemap" width="390" height="430"></iframe>
+    <iframe name="web" src="http://m.kookmin.ac.kr/main.php#main-sitemap" width="435px" height="460px" frameborder="0" scrolling="auto" class="iframe-full-height"></iframe>
     <a href="http://m.kookmin.ac.kr" target="web" class="left primary pill button">국민대 홈</a><a href="http://14.63.169.59/kmusecrets/" target="web" class="right pill button">국대전 검색</a><a href="home.html" target="web" class="right negative pill button"
         style="display: none;">국민대 홈 2.0 (준비중)</a>
     <!--body end-->

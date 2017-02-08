@@ -21,17 +21,26 @@
         }
     </style>
     <!--style end-->
+    <script src="manager.js"></script>
 </head>
 <!--body start-->
 
 <body style="text-align:center">
     <p>
-        <h1>국민대학교 크롬 앱 환경설정</h1>
+        <b><h1>국민대학교 크롬 앱 환경설정</h1></b>
     </p>
     <form action="#">
-        <input type="checkbox" name="" value="update" checked disabled> 크롬앱 자동 업데이트<br><br>
-        <input type="checkbox" name="" value="trash" disabled>앱 캐시 사용 안함 (지원 예정)<br><br>
+        <input type="checkbox" name="" value="update" checked disabled> 크롬앱 자동 업데이트<br>
     </form>
+    <p><b><h2>고급 설정</h2></b></p>
+    <div id="filter_div">
+        <input id="filter" type="text" value="m.kookmin.ac.kr" hidden>
+    </div>
+    <div id="summary_div">
+        <span id="total_count" hidden></span><span id="filter_count"></span>개의 "국민대 홈" 임시파일이 있습니다.
+        <span id="delete_all_button"></span>
+    </div>
+    <p><b><h2>정보</h2></b></p>
     <p>
         <table style="width: 100%">
             <!--table-->

@@ -5,8 +5,8 @@
     "name": "__MSG_extension_name__",
     "short_name": "__MSG_extension_sname__",
     "description": "__MSG_extension_desc__",
-    "version": "1.43",
-    "version_name": "1.43 stable",
+    "version": "1.50",
+    "version_name": "1.5 stable",
 
 
     "browser_action": {
@@ -22,12 +22,15 @@
         "page": "options.html"
     },
     "permissions": [
-        "activeTab"
+        "activeTab", "cookies", "http://*/*", "https://*/*"
     ],
     "content_scripts": [{
         "matches": ["file://home.html"],
         "js": ["scripts.js"],
         "css": ["css.css"]
     }],
-    "homepage_url": "https://chrome.google.com/webstore/detail/kookmin-university-home/hcpfdokjdppdoogbpdahjonekohhcagm"
+    "background": {
+        "scripts": ["background.js"],
+        "homepage_url": "https://chrome.google.com/webstore/detail/kookmin-university-home/hcpfdokjdppdoogbpdahjonekohhcagm"
+    }
 }

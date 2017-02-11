@@ -31,6 +31,6 @@ Kookmin University mobile homepage in Google Chrome!
 
 `License: unlicense, For more information, please refer to <http://unlicense.org/>`
 
-## Please be careful
+## be careful
 
 (Kookmin University <b>Unofficial</b> Chrome App made by <b>kookmin univ students</b>.)

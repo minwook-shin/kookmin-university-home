@@ -13,8 +13,7 @@ Kookmin University mobile homepage in Google Chrome!
 
 `License: GPL-3+`
 
-
-
+-----
 
 `Files: resource/symbol_color`
 
@@ -22,8 +21,7 @@ Kookmin University mobile homepage in Google Chrome!
 
 `License: (contact university.)`
 
-
-
+-----
 
 `Files: lib/css3buttons/*`
 

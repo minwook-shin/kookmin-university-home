@@ -5,8 +5,8 @@
     "name": "__MSG_extension_name__",
     "short_name": "__MSG_extension_sname__",
     "description": "__MSG_extension_desc__",
-    "version": "1.60",
-    "version_name": "1.7-0 preview",
+    "version": "1.61",
+    "version_name": "1.7-1 preview",
 
 
     "browser_action": {

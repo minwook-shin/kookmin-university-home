@@ -1,6 +1,6 @@
 # 개발 환경
 
-windows,mac,linux
+windows,mac,linux + IDE
 
 # 개발 세팅
 

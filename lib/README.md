@@ -1,11 +1,11 @@
 ## lib/*
 라이브러리를 배치하는 곳입니다.
 
-### main/*
+### lib/main/*
 작동에 필요한 요소입니다.
 
-### options/*
+### lib/options/*
 설정 페이지입니다.
 
-### addons/*
+### lib/addons/*
 부속 파일 저장폴더입니다.

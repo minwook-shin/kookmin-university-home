@@ -171,7 +171,7 @@ function reloadCookieTable() {
     if (domains.length) {
         var button = document.createElement("button");
         button.onclick = removeAllForFilter;
-        button.innerText = "쿠키 초기화";
+        button.innerText = "delete cookies";
         select("#delete_all_button").appendChild(button);
     }
 

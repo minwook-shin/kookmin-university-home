@@ -1,7 +1,7 @@
 ## Unofficial extension of Kookmin University
 Kookmin University mobile homepage in Google Chrome!
 ![ScreenShot](https://github.com/minwook-shin/kookmin-university-home/blob/master/docs/screenshot.PNG)
-## What can I do? 
+------
 * You can access Kookmin University site such as school introduction, announcement, school events, school schedule, library place inquiry, restaurant menu, campus information, k-card, e-mail.
 * You can search for articles in "국민대 대신 전해드립니다" (powered by 국대전 검색기)
 

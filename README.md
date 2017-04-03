@@ -31,4 +31,4 @@ Kookmin University mobile homepage in Google Chrome/firefox(not yet)!
 
 ## be careful
 
-(Kookmin University <b>Unofficial</b> Chrome App made by <b>kookmin univ students</b>.)
+Kookmin University <b>Unofficial</b> Chrome/firefox App

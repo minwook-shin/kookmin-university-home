@@ -1,34 +1,27 @@
 ## Unofficial extension of Kookmin University
-Kookmin University mobile homepage in Google Chrome/firefox(not yet)!
+Kookmin University mobile homepage in Google Chrome/firefox!
+
+(powered by 국대전 검색기)
+
+(The Firefox extension is not yet available.)
+
 ![ScreenShot](https://github.com/minwook-shin/kookmin-university-home/blob/master/docs/screenshot.PNG)
+
 ------
-* You can access Kookmin University site such as school introduction, announcement, school events, school schedule, library place inquiry, restaurant menu, campus information, k-card, e-mail.
-* You can search for articles in "국민대 대신 전해드립니다" (powered by 국대전 검색기)
 
-## Detail License for files
+* You can access Kookmin University mobile site
+* You can search for "국민대 대신 전해드립니다" 
 
-`Files: *` 
+## Built With
 
-`Copyright: 2017 minwook-shin`
+* [Files: resource/symbol_color](http://www.kookmin.ac.kr) - The symbol logo used
+* [Files: lib/css3buttons/*](http://unlicense.org/) - The button used
 
-`License: GPL-3+`
+## License
 
------
+This project is licensed under the GPL3 License - see the [LICENSE]( 
+LICENSE) file for details
 
-`Files: resource/symbol_color`
-
-`Copyright: http://www.kookmin.ac.kr`
-
-`License: (contact university.)`
-
------
-
-`Files: lib/css3buttons/*`
-
-`Copyright: 2010 michenriksen`
-
-`License: unlicense, For more information, please refer to <http://unlicense.org/>`
-
-## be careful
+## warning
 
 Kookmin University <b>Unofficial</b> Chrome/firefox App

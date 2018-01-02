@@ -1,16 +1,33 @@
-# manifest.json
+# file infomation
+
+## manifest.json
+
 이름등 설정 값을 지정 해줍니다.
-# popup.html
+
+## popup.html
+
 매뉴와 iframe을 관리하는 페이지입니다.
-# home.html
+
+## home.html
+
 국민대 홈 2.0의 메인 매뉴입니다.
-# background.js
+
+## background.js
+
 백그라운드에서 코드 작동할 때 쓰입니다.
-# manager.js
+
+## manager.js
+
 쿠키 삭제 관련 모듈입니다.
-# options.html
+
+## options.html
+
 옵션 매뉴입니다.
-# jquery
+
+## jquery
+
 jquery 외부 라이브러리입니다.
-# css3button
+
+## css3button
+
 외부 버튼 라이브러리입니다.

@@ -1,16 +1,22 @@
 ## Unofficial extension of Kookmin University
-Kookmin University mobile homepage in Google Chrome/firefox!
+Kookmin University mobile homepage in Google Chrome/edge!
 
-(powered by 국대전 검색기)
+Kookmin University <b>Unofficial</b> Chrome/firefox App
 
-(The Firefox extension is not yet available.)
 
-![ScreenShot](https://github.com/minwook-shin/kookmin-university-home/blob/master/docs/screenshot.PNG)
+1.7 버전은 국민대학교 새로운 홈페이지에 대응한 임시버전입니다.
+
+2021년 초에 새로운 국민대 홈이 찾아옵니다!
+
+![ScreenShot](https://github.com/minwook-shin/kookmin-university-home/blob/master/screenshot_1.PNG)
+![ScreenShot](https://github.com/minwook-shin/kookmin-university-home/blob/master/screenshot_2.PNG)
+
+
+(powered by 국대전 검색기) - 더 이상 없어서 2020년 12월 11일부로 제거했습니다. 그동안 유지해주셔서 감사합니다.
 
 ------
 
-* You can access Kookmin University mobile site
-* You can search for "국민대 대신 전해드립니다" 
+* access Kookmin University site
 
 ## Built With
 
@@ -19,9 +25,4 @@ Kookmin University mobile homepage in Google Chrome/firefox!
 
 ## License
 
-This project is licensed under the GPL3 License - see the [LICENSE]( 
-LICENSE) file for details
-
-## warning
-
-Kookmin University <b>Unofficial</b> Chrome/firefox App
+This project is licensed under the GPL3 License - see the [LICENSE](LICENSE) file for details

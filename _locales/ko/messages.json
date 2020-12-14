@@ -2,15 +2,12 @@
     "locales": {
         "message": "ko"
     },
-
     "extension_name": {
         "message": "국민대학교 홈"
     },
-
     "extension_sname": {
         "message": "국민대 홈"
     },
-
     "extension_desc": {
         "message": "국민대학교의 모바일 홈페이지를 구글 크롬/엣지에서 만나보세요!"
     }
